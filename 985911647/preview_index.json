@@ -1,19 +1,19 @@
 {
   "qq_number": "198581648",
   "group_number": "985911647",
-  "updated_at": "2026-04-22T16:19:47.244463",
+  "updated_at": "2026-04-23T15:52:39.080195",
   "skins": [
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "GuToの暖呼呼.bds",
-      "thumb": "GuToの暖呼呼.bds_py_26_light_thumb.png",
-      "full": "GuToの暖呼呼.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "GuToの暖呼呼.bdi",
       "thumb": "GuToの暖呼呼.bdi_py_26_light_thumb.png",
       "full": "GuToの暖呼呼.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "GuToの暖呼呼.bds",
+      "thumb": "GuToの暖呼呼.bds_py_26_light_thumb.png",
+      "full": "GuToの暖呼呼.bds_py_26_light.png"
     }
   ]
 }
