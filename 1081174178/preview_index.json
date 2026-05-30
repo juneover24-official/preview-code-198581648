@@ -1,7 +1,7 @@
 {
   "qq_number": "198581648",
   "group_number": "1081174178",
-  "updated_at": "2026-05-29T12:16:02+00:00",
+  "updated_at": "2026-05-30T05:21:58+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -32,12 +32,6 @@
       "file": "白水鉴心.bdi",
       "thumb": "白水鉴心.bdi_py_26_light_thumb.png",
       "full": "白水鉴心.bdi_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "Gutoの怯涩.bdi",
-      "thumb": "Gutoの怯涩.bdi_py_26_light_thumb.png",
-      "full": "Gutoの怯涩.bdi_py_26_light.png"
     },
     {
       "name": "乐妍贴纸底包1",
@@ -98,6 +92,12 @@
       "file": "蕾丝针剂彩.bdi",
       "thumb": "蕾丝针剂彩.bdi_py_26_light_thumb.png",
       "full": "蕾丝针剂彩.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Gutoの怯涩",
+      "file": "Gutoの怯涩.bdi",
+      "thumb": "Gutoの怯涩.bdi_py_26_light_thumb.png",
+      "full": "Gutoの怯涩.bdi_py_26_light_thumb.png"
     }
   ]
 }
