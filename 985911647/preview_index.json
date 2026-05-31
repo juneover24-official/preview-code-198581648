@@ -1,7 +1,7 @@
 {
   "qq_number": "198581648",
   "group_number": "985911647",
-  "updated_at": "2026-04-23T15:52:39.080195",
+  "updated_at": "2026-05-31T22:43:57+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -14,6 +14,12 @@
       "file": "GuToの暖呼呼.bds",
       "thumb": "GuToの暖呼呼.bds_py_26_light_thumb.png",
       "full": "GuToの暖呼呼.bds_py_26_light.png"
+    },
+    {
+      "name": "婴儿梦",
+      "file": "婴儿梦.bdi",
+      "thumb": "婴儿梦.bdi_py_26_light_thumb.png",
+      "full": "婴儿梦.bdi_py_26_light_thumb.png"
     }
   ]
 }
