@@ -1,7 +1,7 @@
 {
   "qq_number": "198581648",
   "group_number": "1081174178",
-  "updated_at": "2026-06-15T00:19:12+00:00",
+  "updated_at": "2026-06-15T00:52:51+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -104,6 +104,12 @@
       "file": "蕾丝针剂融.bdi",
       "thumb": "蕾丝针剂融.bdi_py_26_light_thumb.png",
       "full": "蕾丝针剂融.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "致爱丽丝的约定彩",
+      "file": "致爱丽丝的约定彩.bdi",
+      "thumb": "致爱丽丝的约定彩.bdi_py_26_light_thumb.png",
+      "full": "致爱丽丝的约定彩.bdi_py_26_light_thumb.png"
     }
   ]
 }
