@@ -1,7 +1,7 @@
 {
   "qq_number": "198581648",
   "group_number": "1081174178",
-  "updated_at": "2026-07-26T16:49:13+00:00",
+  "updated_at": "2026-07-26T17:03:39+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -182,6 +182,12 @@
       "file": "叽萝融.bds",
       "thumb": "叽萝融.bds_py_26_light_thumb.png",
       "full": "叽萝融.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾丝针剂 彩",
+      "file": "蕾丝针剂融.bds",
+      "thumb": "蕾丝针剂融.bds_py_26_light_thumb.png",
+      "full": "蕾丝针剂融.bds_py_26_light_thumb.png"
     }
   ]
 }
