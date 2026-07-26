@@ -1,7 +1,7 @@
 {
   "qq_number": "198581648",
   "group_number": "1081174178",
-  "updated_at": "2026-07-26T15:17:02+00:00",
+  "updated_at": "2026-07-26T16:30:13+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -164,6 +164,12 @@
       "file": "我小兔绝非善类彩.bds",
       "thumb": "我小兔绝非善类彩.bds_py_26_light_thumb.png",
       "full": "我小兔绝非善类彩.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "叽萝",
+      "file": "叽萝彩.bds",
+      "thumb": "叽萝彩.bds_py_26_light_thumb.png",
+      "full": "叽萝彩.bds_py_26_light_thumb.png"
     }
   ]
 }
