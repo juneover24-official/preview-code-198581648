@@ -1,7 +1,7 @@
 {
   "qq_number": "198581648",
   "group_number": "1081174178",
-  "updated_at": "2026-07-26T12:58:12+00:00",
+  "updated_at": "2026-07-26T15:00:43+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -140,6 +140,12 @@
       "file": "薄荷水气泡指数100融.bds",
       "thumb": "薄荷水气泡指数100融.bds_py_26_light_thumb.png",
       "full": "薄荷水气泡指数100融.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "我小兔绝非善类 彩",
+      "file": "我小兔绝非善类彩.bdi",
+      "thumb": "我小兔绝非善类彩.bdi_py_26_light_thumb.png",
+      "full": "我小兔绝非善类彩.bdi_py_26_light_thumb.png"
     }
   ]
 }
