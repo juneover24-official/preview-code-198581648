@@ -1,7 +1,7 @@
 {
   "qq_number": "198581648",
   "group_number": "985911647",
-  "updated_at": "2026-07-28T05:16:42+00:00",
+  "updated_at": "2026-07-28T06:55:05+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -32,6 +32,12 @@
       "file": "雪色融.bdi",
       "thumb": "雪色融.bdi_py_26_light_thumb.png",
       "full": "雪色融.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "雪色 彩",
+      "file": "雪色融.bds",
+      "thumb": "雪色融.bds_py_26_light_thumb.png",
+      "full": "雪色融.bds_py_26_light_thumb.png"
     }
   ]
 }
